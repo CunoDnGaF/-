@@ -1,5 +1,5 @@
 # Привет!
-!(https://vk.com/poppunker3000?z=photo57212653_457243932%2Falbum57212653_0%2Frev)
+![](images/ME.jpg)
 
 **Меня зовут ***Никита*** и я начинающий [frontend](https://en.wikipedia.org/wiki/Front-end_web_development "Что это?") разработчик!**
 

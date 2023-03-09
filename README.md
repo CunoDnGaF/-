@@ -1,7 +1,7 @@
 # Привет!
 ![](images/ME.jpg)
 
-**Меня зовут ***Никита*** и я начинающий [frontend](https://en.wikipedia.org/wiki/Front-end_web_development "Что это?") разработчик!**
+**Меня зовут _Никита_ и я начинающий [frontend](https://en.wikipedia.org/wiki/Front-end_web_development "Что это?") разработчик!**
 
 ## На данный момент я успешно изучил следующие темы:
 
